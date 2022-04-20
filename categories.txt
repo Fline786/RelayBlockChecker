@@ -49,5 +49,6 @@ spam
 suspicious
 weapons
 security.proxy
-warez.security virus_ignore.security
+warez.security 
+virus_ignore.security
 virus.security violence
