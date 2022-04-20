@@ -1,3 +1,53 @@
-forums.im
+porn 
+security 
+security.proxy 
+Adult 
+adult 
+mature 
+Mature 
+forums.im 
+forums 
+porn 
+Porn 
+forums.social_networking 
+alcohol 
+bodyart.mature 
+dating.forums 
+de.porn 
+de.world 
+drugs 
+es.porn 
+es.world 
+extremism.violence 
+facebook 
+forums 
+hacking.security 
+games 
+fr.porn 
+gambling 
+games.mature 
+illicit.porn 
+instagram 
+it.porn 
+jp.porn 
+local-block 
+mail.forums 
+malware.security 
+mature
+nl.porn
+offensive
+p2p.forums
+phishing.security
+pl.porn
+plagiarism
+potentially_unwanted_applications.security
+proxy.security pt.porn
+ru.porn script.suspicious
+security sex.education
+shorteners.security
+spam
+suspicious
+weapons
 security.proxy
-porn
+warez.security virus_ignore.security
+virus.security violence
